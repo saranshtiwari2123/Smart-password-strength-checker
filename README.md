@@ -1,4 +1,4 @@
-# 🔐 Smart Password Strength Checker and Generator
+# 🔐 smart Password Strength Checker and Generator
 
 ## Overview
 
@@ -24,6 +24,10 @@ A web application that analyzes password strength and helps users create secure 
 1. Download the project files
 2. Open `index.html` in a web browser
 3. Start checking password strength
+
+## Live Demo
+
+https://saranshtiwari2123.github.io/Smart-password-strength-checker/
 
 ## Project Author
 
